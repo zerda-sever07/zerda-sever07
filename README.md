@@ -2,6 +2,8 @@
 <h3 align="center">I am a software development student. I enjoy working with software.</h3>
 
 <h3 align="left">Connect with me:</h3>
+<p> e-mail:zerda1343@gmail.com </p>
+   
 <p align="left">
 </p>
 
