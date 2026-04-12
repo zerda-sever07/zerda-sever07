@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Zerda</h1>
-<h3 align="center">I am a software development student. I enjoy working with software.</h3>
+<h3 align="center">I am a Computer Programming / Software Development student focused on building high-quality, user-centered digital products. My goal is to deliver seamless user experiences by leveraging modern web technologies and software practices. I am passionate about staying up-to-date with the latest industry trends and constantly improving my technical skillset.</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p> 📧e-mail: zerda1343@gmail.com </p>
-   
+
 <p align="left">
+  <a href="mailto:zerda1343@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/LINKEDIN-KULLANICI-ADIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
